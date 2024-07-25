@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-## ⚒ 스택
+## ⚒ SKILLS
 
+# Front-End
 - HTML / CSS / JavaScript
 - React
 <!--
