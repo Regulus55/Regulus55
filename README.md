@@ -2,7 +2,7 @@
 
 ## ⚒ SKILLS
 
-# Front-End
+### Front-End
 - HTML / CSS / JavaScript
 - React
 <!--
