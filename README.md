@@ -3,8 +3,12 @@
 ## ⚒ SKILLS
 
 ### Front-End
-- HTML / CSS / JavaScript
-- React
+- HTML , CSS , JavaScript(es6)
+- React , TypeScript , React-query , React-hook-form , @headlessui/react , swiper
+    
+    react-lazy-load-image-component
+    
+- Styled-Component , Tailwind CSS
 <!--
 **Regulus55/Regulus55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
