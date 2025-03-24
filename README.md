@@ -4,7 +4,6 @@
 
 <br/>
 
-
 <div align="center">
     <h3>Stack</h3>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=&logo=HTML5&logoColor=white"/>
@@ -23,7 +22,7 @@
 
 <br/>
 
-<div align="center" style="line-height: 0.5;">
+<div align="center">
    <h3><a href="mailto:hakjoon55@gmail.com">📧 hakjoon55@gmail.com<a/></h3>
    <h3><a href="https://sedate-stranger-8e6.notion.site/Notion-1ec1e300d9e04a338dcf0372df73269c">🎨 Portfolio<a/></h3>
 </div>
