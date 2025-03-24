@@ -1,11 +1,17 @@
-## Hi there 👋
 
 ## ⚒ SKILLS
 
-### Front-End
-- HTML , CSS , JavaScript(es6)
-- React , TypeScript , React-query , React-hook-form , @headlessui/react , swiper
-    
+<strong>Front-End</strong>
+<div>
+<img src="https://img.shields.io/badge/Html-E34F26?style=&logo=Html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=&logo=JavaScript&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Hook%20Form-CA4245?style=&logo=React%20Router&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Query-4FC08D?style=&logoColor=white"/>
+</div>    
     react-lazy-load-image-component
     
 - Styled-Component , Tailwind CSS
