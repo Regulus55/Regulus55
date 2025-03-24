@@ -23,7 +23,7 @@
 
 <br/>
 
-<div align="center" style="line-height: 1.2;">
+<div align="center" style="line-height: 0.5;">
    <h3><a href="mailto:hakjoon55@gmail.com">📧 hakjoon55@gmail.com<a/></h3>
    <h3><a href="https://sedate-stranger-8e6.notion.site/Notion-1ec1e300d9e04a338dcf0372df73269c">🎨 Portfolio<a/></h3>
 </div>
