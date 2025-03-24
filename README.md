@@ -4,7 +4,7 @@
 
 ```javascript
 const Regulus = {
-    <div>name: "김학준",</div>
+    name: "김학준",
     email: "hakjoon55@gmail.com",
     github: "https://github.com/Regulus55",
     portfolio: "https://sedate-stranger-8e6.notion.site/Notion-1ec1e300d9e04a338dcf0372df73269c"
