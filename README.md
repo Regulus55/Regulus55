@@ -2,7 +2,7 @@
 
 <h3 align="center">한 걸음씩 앞으로 나아가며, 더 나은 코드를 만들기 위해 노력합니다</h3>
 
-<div align="center">
+<div align="left">
     <div>const Regulus = {</div>
     <div>    name: "김학준",</div>
     <div>    email: "hakjoon55@gmail.com",</div>
@@ -11,6 +11,7 @@
     <div>};</div>
 </div>
 
+<div align="right">
 #### Front-End  
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=&logo=HTML5&logoColor=white"/>
@@ -28,4 +29,5 @@
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white"/>
+</div>
 </div>
