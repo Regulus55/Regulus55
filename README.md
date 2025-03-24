@@ -4,13 +4,6 @@
 
 <br/>
 
-<div align="center">
-   <h3><a href="mailto:hakjoon55@gmail.com">📧 이메일<a/></h3>
-   <h3><a href="https://sedate-stranger-8e6.notion.site/Notion-1ec1e300d9e04a338dcf0372df73269c">🎨 포트폴리오<a/></h3>
-</div>
-
-
-<br/>
 
 <div align="center">
     <h3>Stack</h3>
@@ -28,4 +21,9 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white"/>
 </div>  
 
+<br/>
 
+<div align="center">
+   <h3><a href="mailto:hakjoon55@gmail.com">📧 이메일<a/></h3>
+   <h3><a href="https://sedate-stranger-8e6.notion.site/Notion-1ec1e300d9e04a338dcf0372df73269c">🎨 포트폴리오<a/></h3>
+</div>
