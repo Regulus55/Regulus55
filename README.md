@@ -1,25 +1,28 @@
-## Hi there 👋
+<h1 align="center">프론트엔드 개발자 김학준입니다</h1>
 
-## ⚒ SKILLS
+<h3 align="center">한 걸음씩 앞으로 나아가며, 더 나은 코드를 만들기 위해 노력합니다</h3>
 
-### Front-End
-- HTML , CSS , JavaScript(es6)
-- React , TypeScript , React-query , React-hook-form , @headlessui/react , swiper
-    
-    react-lazy-load-image-component
-    
-- Styled-Component , Tailwind CSS
-<!--
-**Regulus55/Regulus55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+    <h3>Stack</h3>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=&logo=HTML5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=&logo=CSS3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=&logo=JavaScript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=&logo=TypeScript&logoColor=white"/>
+    <br/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=&logo=reacthookform&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React%20Query-FF4154?style=&logo=reactquery&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=&logo=axios&logoColor=white"/>
+    <br/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=&logo=Git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white"/>
+</div>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+   <h3><a href="mailto:hakjoon55@gmail.com">📧 hakjoon55@gmail.com<a/></h3>
+   <h3><a href="https://sedate-stranger-8e6.notion.site/Notion-1ec1e300d9e04a338dcf0372df73269c">🎨 Portfolio<a/></h3>
+</div>
