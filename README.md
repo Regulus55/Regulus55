@@ -11,6 +11,8 @@ const Regulus = {
 }
 ````
 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&size=large" />
+
 
 <div align="center">
     <h3>Stack</h3>
