@@ -3,9 +3,9 @@
 <h3 align="center">한 걸음씩 앞으로 나아가며, 더 나은 코드를 만들기 위해 노력합니다</h3>
 
 <div align="center">
-    <div align="left">const Regulus = {</div>
-    <div align="center">    name: "김학준",</div>
-    <div align="center">    email: "hakjoon55@gmail.com",</div>
+    <div>const Regulus = {</div>
+    <div>    name: "김학준",</div>
+    <div>    email: "hakjoon55@gmail.com",</div>
     <div>    github: "https://github.com/Regulus55",</div>
     <div>    portfolio: "https://sedate-stranger-8e6.notion.site/Notion-1ec1e300d9e04a338dcf0372df73269c"</div>
     <div>};</div>
