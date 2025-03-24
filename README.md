@@ -2,13 +2,14 @@
 
 <h3 align="center">한 걸음씩 앞으로 나아가며, 더 나은 코드를 만들기 위해 노력합니다</h3>
 
-
-const Regulus = {
-<div><span>       </span>    name: "김학준",</div>
-    email: "hakjoon55@gmail.com",
-    github: "https://github.com/Regulus55",
-    portfolio: "https://sedate-stranger-8e6.notion.site/Notion-1ec1e300d9e04a338dcf0372df73269c"
-};
+<div background="yellow">
+    const Regulus = {
+            name: "김학준",
+        email: "hakjoon55@gmail.com",
+        github: "https://github.com/Regulus55",
+        portfolio: "https://sedate-stranger-8e6.notion.site/Notion-1ec1e300d9e04a338dcf0372df73269c"
+    };
+</div>
 
 #### Front-End  
 <div>
