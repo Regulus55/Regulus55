@@ -1,35 +1,29 @@
 
-## ⚒ SKILLS
+## ⚒ STACK
 
-<strong>Front-End</strong>
+### 🚀 Front-End
 <div>
 <img src="https://img.shields.io/badge/Html-E34F26?style=&logo=Html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=&logo=JavaScript&logoColor=white"/>
-<br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=&logo=TypeScript&logoColor=white"/>
+</div>  
+
+### ⚛️ Library & Framework
+<div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Hook%20Form-CA4245?style=&logo=React%20Router&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Query-4FC08D?style=&logoColor=white"/>
-<img src="https://img.shields.io/badge/AXIOS-6828e2?style="/>
-<br>
+<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=&logo=reacthookform&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Query-FF4154?style=&logo=reactquery&logoColor=white"/>
+</div>  
+
+### 🔗 Network & API
+<div>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=&logo=axios&logoColor=white"/>
+</div>  
+
+### 🛠 Tools
+<div>
 <img src="https://img.shields.io/badge/Git-F05032?style=&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white"/>
-</div>    
-    react-lazy-load-image-component
-    
-- Styled-Component , Tailwind CSS
-<!--
-**Regulus55/Regulus55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
