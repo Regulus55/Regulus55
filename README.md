@@ -11,6 +11,10 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React%20Hook%20Form-CA4245?style=&logo=React%20Router&logoColor=white"/>
 <img src="https://img.shields.io/badge/React%20Query-4FC08D?style=&logoColor=white"/>
+<img src="https://img.shields.io/badge/AXIOS-6828e2?style="/>
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white"/>
 </div>    
     react-lazy-load-image-component
     
