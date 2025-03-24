@@ -9,8 +9,10 @@
     <div>portfolio: "https://sedate-stranger-8e6.notion.site/Notion-1ec1e300d9e04a338dcf0372df73269c"</div>
 </div>
 
+<br/>
+
 <div align="center">
-#### Front-End  
+<h3>Stack</h3>  
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=&logo=CSS3&logoColor=white"/>
