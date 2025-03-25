@@ -24,5 +24,5 @@
 
 <div align="center">
    <h3><a href="mailto:hakjoon55@gmail.com">📧 hakjoon55@gmail.com<a/></h3>
-   <h3><a href="https://sedate-stranger-8e6.notion.site/Notion-1ec1e300d9e04a338dcf0372df73269c">🎨 Portfolio<a/></h3>
+   <h3><a href="https://www.notion.so/1735b53dc0b28062a379f56d5df5b3c8">🎨 Portfolio<a/></h3>
 </div>
