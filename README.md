@@ -3,7 +3,7 @@
 <h3 align="center">한 걸음씩 앞으로 나아가며, 더 나은 코드를 만들기 위해 노력합니다</h3>
 
 <div align="center">
-   <h3>🎨 <a href="https://www.notion.so/1735b53dc0b28062a379f56d5df5b3c8">포트폴리오<a/> 🎨</h3>
+   <h3>🎨 <a href="https://regulus55.github.io">포트폴리오<a/> 🎨</h3>
 </div>
 
 <br/>
